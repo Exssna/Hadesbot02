@@ -21,6 +21,6 @@ const ownermenu = (prefix) => {
 │
 ╰──────────────────
 	
-            *©FADIL CH*`
+            *©ᴀʟɴ ʙᴏᴛs*`
 	}
 exports.ownermenu = ownermenu
