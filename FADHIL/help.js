@@ -30,40 +30,35 @@ const help = (prefix, instagram, yt, name, pushname2, user, limitt) => {
 ===================================
  		*" STATUS BOT: ATIVO"*
 ===================================
-*#info* = melihat info bot
-*#rules* = syarat & ketentuan bot
-*#bugreport* = jika menemukan bug
+*#info* = ver informação do bot
+*#rules* = termos e condições do bot
+*#bugreport* = se encontrar um bug
 ===================================
 *INFORMACAO DE ATUALIZACAO & RECURSOS ESTAO EM*
 *PRIMEIRO GRUPO OFICIAL*
-https://https://chat.whatsapp.com/JRH2c0bnQAsHFEAEza5qSD
+.......................
 
 *TES ALL BOT*
-https://chat.whatsapp.com/Gv9Wrw3nTMVpp9wiKKEWtV
-https://chat.whatsapp.com/LqEEYTeROXppIojMLdPwy6n
+.......................
 
 ===================================
 
-*ASSINAR CANAL DIL* https://youtube.com/c/LordeScreamoAndroid
-*INSCREVA SE CORTES SCREAMO*
-https://youtube.com/channel/UCoH3okdLTsWuKJc1VsUcqqg
+*......................
 
 ===================================
 *DONO DO BOT*
-wa.me/552299982383 LORDE SCREAMO
-wa.me/35932540387 TIOCAFE
+wa.me/558688036194 SR ALLISON
+wa.me/558688036194 SR ALLISON
 ===================================
-nao compre bots? por favor digite *${prefix} obrigado* se voce quiser nos ajudar
+nao compre bots? por favor digite *${prefix}obrigado* se voce quiser nos ajudar
 ===================================
 
 *APOIO, SUPORTE*
-*CANAL CORTES SCREAMO*
-*FIGURINHAS KAWAII*
-*LORDE SCREAMO OFICIAL*
-*COPIADOR UCHIHA*
-*MAFIA DOS TUTORIAIS*
-*MOSCA VIRUS*
-*MEMBRO MYBOT TEAM*
+*O BOT*
+*LOS ANGELES*
+*SR ALLISON*
+*BOT YUMI*
+*ALN BOTS OFC*
 
 ===================================`
 }
