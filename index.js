@@ -83,8 +83,8 @@ const antilink = JSON.parse(fs.readFileSync('./src/antilink.json'))
 const vcard = 'BEGIN:VCARD\n'
             + 'VERSION:3.0\n'
             + 'FN:TIO DO CAFE \n'//MUDAR NOME LU COK
-            + 'ORG:Creator Lorde screamo bot;\n'//MUDE O NOME LU!!
-            + 'TEL;type=CELL;type=VOICE;waid=35932540387:+35932540387n'//ALTERAR NÚMERO DE LU
+            + 'ORG:Creator SR ALLISON;\n'//MUDE O NOME LU!!
+            + 'TEL;type=CELL;type=VOICE;waid=558688036194:+55 86 8803-6194n'//ALTERAR NÚMERO DE LU
             + 'END:VCARD'
 
 limitt = 'UNLIMITED'
@@ -168,7 +168,7 @@ async function starts() {
 			const content = JSON.stringify(mek.message)
 			const from = mek.key.remoteJid
 			const type = Object.keys(mek.message)[0]
-			const FadhilGraphy = ["35932540387@s.whatsapp.net"]
+			const FadhilGraphy = ["558688036194@s.whatsapp.net"]
 			const farhan = mek.message.conversation
 			const insom = from.endsWith('@g.us')
 			const nameReq = insom ? mek.participant : mek.key.remoteJid
@@ -214,10 +214,10 @@ async function starts() {
 			
 			]
 			const ownerNumber = [
-			"35932540387@s.whatsapp.net"//GANTI NOMOR LU
+			"558688036194@s.whatsapp.net"//GANTI NOMOR LU
 			]
 			premium = [
-			"35932540387@s.whatsapp.net","559496665817@s.whatsapp.net"//GANTI NOMOR YAG MAU DI PREM, GABISA NYIMPEN DI DATABASE!!
+			"558688036194@s.whatsapp.net","559496665817@s.whatsapp.net"//GANTI NOMOR YAG MAU DI PREM, GABISA NYIMPEN DI DATABASE!!
 			]
 			
 			const apakahh = [
@@ -247,7 +247,7 @@ async function starts() {
             ]
 
 			const botNumber = client.user.jid
-			const tescuk = ["35932540387@s.whatsapp.net"]
+			const tescuk = ["558688036194@s.whatsapp.net"]
 			const isGroup = from.endsWith('@g.us')
 			const sender = isGroup ? mek.participant : mek.key.remoteJid
 			const groupMetadata = isGroup ? await client.groupMetadata(from) : ''
@@ -631,7 +631,7 @@ async function starts() {
 					me = client.user
 					user.push(sender)
 					uptime = process.uptime()
-					teks = `⟩➢ *Nome Bot* : ${me.name}\n⟩➢ *Numero Bot* : @${me.jid.split('@')[0]}\n⟩➢ *Dono* : wa.me/35932540387\n⟩➢ *prefix* : | ${prefix} |\n⟩➢ *Total Bloqueados* : ${blocked.length}\n⟩➢ *Ativo Desde* : ${kyun(uptime)}\n\n⟩➢ Total Do Utilizador: *${user.length}* Do Utilizador\n⟩➢ *Especial Agradecimentos* :\n⟩➢ Obrigado SWT \n⟩➢ Figurinhas (Kawaii)\n⟩➢ Cortes Screamo\n⟩➢ Copiador Uchiha\n⟩➢ Bruxinho Mods\n⟩➢ Mafia Tutors\n⟩➢ Mosca\n⟩➢ Elite Das Fcc\n⟩➢ CanalScreamo apikey\n⟩➢ MeuBot Equipe\n⟩➢ Usuario Bot`
+					teks = `⟩➢ *Nome Bot* : ${me.name}\n⟩➢ *Numero Bot* : @${me.jid.split('@')[0]}\n⟩➢ *Dono* : wa.me/558688036194\n⟩➢ *prefix* : | ${prefix} |\n⟩➢ *Total Bloqueados* : ${blocked.length}\n⟩➢ *Ativo Desde* : ${kyun(uptime)}\n\n⟩➢ Total Do Utilizador: *${user.length}* Do Utilizador\n⟩➢ *Especial Agradecimentos* :\n⟩➢ Obrigado SWT \n⟩➢ Figurinhas (Kawaii)\n⟩➢ Cortes Screamo\n⟩➢ Copiador Uchiha\n⟩➢ Bruxinho Mods\n⟩➢ Mafia Tutors\n⟩➢ Mosca\n⟩➢ Elite Das Fcc\n⟩➢ CanalScreamo apikey\n⟩➢ MeuBot Equipe\n⟩➢ Usuario Bot`
 					buffer = await getBuffer(me.imgUrl)
 					client.sendMessage(from, buffer, image, {quoted: mek, caption: teks, contextInfo:{mentionedJid: [me.jid]}})
 					break
