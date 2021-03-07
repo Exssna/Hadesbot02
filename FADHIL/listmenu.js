@@ -62,31 +62,33 @@ const listmenu = (prefix) => {
 ╰─────────────────────
 
 
-╭───「 *OTHER & DEFACE* 」───
-├➲ *${prefix}jarak [Klatem/Jogja]*
-├➲ *${prefix}translate [en/Apa kabar?]*
-├➲ *${prefix}pasangan [Fadhil/Salsa]*
-├➲ *${prefix}gantengcek [Fadhil]*
-├➲ *${prefix}cantikcek [Salsa]*
-├➲ *${prefix}artinama [Fadhil]*
-├➲ *${prefix}persengay [Bryan]*
-├➲ *${prefix}pbucin [Fadhil]*
-├➲ *${prefix}bpfont [Fadhil]*
-├➲ *${prefix}textstyle [Fadhil Graphy]*
-├➲ *${prefix}jadwaltv [GTV]*
-├➲ *${prefix}lirik [I am lady]*
-├➲ *${prefix}chord [I am lady]*
-├➲ *${prefix}wiki [Adolf Hitler]*
-├➲ *${prefix}brainly [pertanyaan]*
-├➲ *${prefix}resepmasakan [rawon]*
-├➲ *${prefix}map [Klaten]*
-├➲ *${prefix}film [The Walking Death]*
-├➲ *${prefix}pinterest [gambar kucing]*
-├➲ *${prefix}infocuaca [Klaten]*
-├➲ *${prefix}jamdunia [Indonesia]*
-├➲ *${prefix}mimpi [Bersamanya]*
-├➲ *${prefix}infoalamat [jalan Klaten]*
-╰─────────────────────
+╭──────「 *OUTROS E DEFACE* 」
+┴
+╰─➤ *${prefix}jarak [Banyuwangi/Surabaya]*
+╰─➤ *${prefix}translate [en/Como você está?]*
+╰─➤ *${prefix}pasangan [Hadesbot/Iriene]*
+╰─➤ *${prefix}gantengcek [Hadesbot]*
+╰─➤ *${prefix}cantikcek [Hadesbot]*
+╰─➤ *${prefix}artinama [Hadesbot]*
+╰─➤ *${prefix}persengay [Topan]*
+╰─➤ *${prefix}pbucin [Hadesbot]*
+╰─➤ *${prefix}bpfont [Hadesbot]*
+╰─➤ *${prefix}textstyle [Hadesbot]*
+╰─➤ *${prefix}jadwaltv [antv]*
+╰─➤ *${prefix}lirik [pintando crepúsculo]*
+╰─➤ *${prefix}chord [pintando crepúsculo]*
+╰─➤ *${prefix}wiki [Adolf Hitler]*
+╰─➤ *${prefix}brainly [pergunta]*
+╰─➤ *${prefix}resepmasakan [rawon]*
+╰─➤ *${prefix}map [Banyuwangi]*
+╰─➤ *${prefix}film [veloz e furioso]*
+╰─➤ *${prefix}pinterest [fotos de gatos]*
+╰─➤ *${prefix}infocuaca [Banyuwangi]*
+╰─➤ *${prefix}jamdunia [Banyuwangi]*
+╰─➤ *${prefix}mimpi [Ular]*
+╰─➤ *${prefix}infoalamat [Rua sãu pedro]*
+┬
+╰───────────────────────────
 
 
 ╭─────────────────────
@@ -127,35 +129,35 @@ const listmenu = (prefix) => {
 ├➲ *${prefix}sticker*
 ├➲ *${prefix}quotemaker [tx/wtrmk/tema]*
 ├➲ *${prefix}nulis [nama/kelas/text]*
-├➲ *${prefix}trigger [reply image]*
+├➲ *${prefix}trigger [imagem de resposta]*
 ├➲ *${prefix}rip [reply image]*
 ├➲ *${prefix}wasted [reply image]*
-├➲ *${prefix}cphlogo [Fadhil/Graphy]*
-├➲ *${prefix}cglitch [Fadhil/Graphy]*
-├➲ *${prefix}cpubg [Fadhil/Graphy]*
-├➲ *${prefix}cml [Fadhil/Graphy]*
+├➲ *${prefix}cphlogo [Hadesbot/Graphy]*
+├➲ *${prefix}cglitch [Hadesbot/Graphy]*
+├➲ *${prefix}cpubg [Hadesbot/Graphy]*
+├➲ *${prefix}cml [Hadesbot/Graphy]*
 ├➲ *${prefix}tahta [Salsa]*
-├➲ *${prefix}croman [Fadhil dan Salsa]*
-├➲ *${prefix}cthunder [Fadhil Graphy]*
-├➲ *${prefix}cbpink [Fadhil Graphy]*
-├➲ *${prefix}cmwolf [Fadhil Graphy]*
-├➲ *${prefix}csky [Fadhil Graphy]*
-├➲ *${prefix}cwooden [Fadhil Graphy]*
-├➲ *${prefix}cflower [Fadhil Graphy]*
-├➲ *${prefix}clove [Fadhil Graphy]*
-├➲ *${prefix}ccrossfire [Fadhil Graphy]*
-├➲ *${prefix}cnaruto [Fadhil Graphy]*
-├➲ *${prefix}cparty [Fadhil Graphy]*
-├➲ *${prefix}cshadow [Fadhil Graphy]*
-├➲ *${prefix}cminion [Fadhil Graphy]*
-├➲ *${prefix}cneon [Fadhil Graphy]*
-├➲ *${prefix}cneon2 [Fadhil Graphy]*
-├➲ *${prefix}cneongreen [Fadhil Graphy]*
-├➲ *${prefix}c3d [Fadhil Graphy]*
-├➲ *${prefix}csky [Fadhil Graphy]*
-├➲ *${prefix}tts [id Haii]*
-├➲ *${prefix}ttp [Fadhil Graphy]*
-├➲ *${prefix}slide [Fadhil Graphy]*
+├➲ *${prefix}croman [Hadesbot dan Salsa]*
+├➲ *${prefix}cthunder [Hadesbot]*
+├➲ *${prefix}cbpink [Hadesbot]*
+├➲ *${prefix}cmwolf [Hadesbot]*
+├➲ *${prefix}csky [Hadesbot]*
+├➲ *${prefix}cwooden [Hadesbot]*
+├➲ *${prefix}cflower [Hadesbot]*
+├➲ *${prefix}clove [Hadesbot]*
+├➲ *${prefix}ccrossfire [Hadesbot]*
+├➲ *${prefix}cnaruto [Hadesbot]*
+├➲ *${prefix}cparty [Hadesbot]*
+├➲ *${prefix}cshadow [Hadesbot]*
+├➲ *${prefix}cminion [Hadesbot]*
+├➲ *${prefix}cneon [Hadesbot]*
+├➲ *${prefix}cneon2 [Hadesbot]*
+├➲ *${prefix}cneongreen [Hadesbot]*
+├➲ *${prefix}c3d [Hadesbot]*
+├➲ *${prefix}csky [Hadesbot]*
+├➲ *${prefix}tts [pt Oie]*
+├➲ *${prefix}ttp [Hadesbot]*
+├➲ *${prefix}slide [Hadesbot]*
 ├➲ *${prefix}stiker*
 ├➲ *${prefix}gifstiker*
 ├➲ *${prefix}toimg*
@@ -222,8 +224,8 @@ const listmenu = (prefix) => {
 ╰──────────────────────
 
 ╭────「 *OWNER ONLY* 」─────
-├➲ *${prefix}addprem [mentioned]*
-├➲ *${prefix}removeprem [mention]*
+├➲ *${prefix}addprem [@mecionado]*
+├➲ *${prefix}removeprem [@mecionado]*
 ├➲ *${prefix}setppbot*
 ├➲ *${prefix}setreply*
 ├➲ *${prefix}bc*
@@ -318,7 +320,7 @@ const listmenu = (prefix) => {
 ├➲ *${prefix}snack [link snack video]*
 ├➲ *${prefix}ytmp3 [link yt]*
 ├➲ *${prefix}ytmp4 [link yt]*
-├➲ *${prefix}joox [Monolog Pamungkas]*
+├➲ *${prefix}joox [Ultimate Monologue]*
 ├➲ *${prefix}smule [Link Video Smule]*
 ├➲ *${prefix}cersex*
 ├➲ *${prefix}asupan*
