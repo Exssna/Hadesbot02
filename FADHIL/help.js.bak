@@ -3,39 +3,30 @@ const help = (prefix, instagram, yt, name, pushname2, user, limitt) => {
 
 	 ❬ *USER ${name}* ❭
 ╭───────────────────────
-├➲ \`\`\`Hai\`\`\`👋 *${pushname2}*
+├➲ \`\`\`Oi\`\`\`👋 *${pushname2}*
 
-├➲ \`\`\`I am\`\`\` *${name}*
+├➲ \`\`\`Eu sou\`\`\` *${name}*
 ╰───────────────────────
- *Limit Kamu : ${limitt}*
- *Verifikasi.   : YES*
+ *Seu limite : ${limitt}*
+ *Verificação.   : YES*
  *Premium.   : NO*
 ╭───────────────────────
-├➲ \`\`\`Total Pengguna:\`\`\` *${user.length} User*
+├➲ \`\`\`Total de usuários:\`\`\` *${user.length} User*
 
-├➲ \`\`\`Total Donasi:\`\`\` *0%* 🙂
+├➲ \`\`\`Doação Total:\`\`\` *0%* 🙂
 ╰───────────────────────
 						
 						
 								
-\`\`\`Follow My Instagram\`\`\`
-${instagram}
 
-\`\`\`SUBSCRIBE😁\`\`\`
-${yt}
-
-\`\`\`GROUP OFFICIAL\`\`\`
-https://chat.whatsapp.com/GHC5djoQJrcGBJFwYQuQoB
-
-
-\`\`\`HARAP BACA NOTE DIBAWAH SEBELUM\`\`\`
-\`\`\`MENGGUNAKAN BOT\`\`\`
+\`\`\`LEIA A NOTA ABAIXO ANTES\`\`\`
+\`\`\`USANDO O BOT\`\`\`
 
 
 ╭──────「 *ABOUT ${name}* 」
 ┴
-╰─➤ *${prefix}request [Mau Req Fitur Apa?]*
-╰─➤ *${prefix}report [lapor bug]*
+╰─➤ *${prefix}request [Deseja solicitar quais recursos?]*
+╰─➤ *${prefix}report [reportar bugs]*
 ╰─➤ *${prefix}info*
 ╰─➤ *${prefix}donasi*
 ╰─➤ *${prefix}owner*
@@ -65,12 +56,12 @@ https://chat.whatsapp.com/GHC5djoQJrcGBJFwYQuQoB
 ╰─➤ *${prefix}kbbi*
 ╰─➤ *${prefix}wait*
 ╰─➤ *${prefix}trendtwit*
-╰─➤ *${prefix}google [berita terkini]*
+╰─➤ *${prefix}google [últimas notícias]*
 ╰─➤ *${prefix}pinterest*
 ┬
 ╰────────────────────────
 
-╭──────「 *FUN & GAME* 」
+╭──────「 *JOGO DIVERTIDO* 」
 ┴
 ╰─➤ *${prefix}anjing*
 ╰─➤ *${prefix}kucing*
@@ -115,31 +106,31 @@ https://chat.whatsapp.com/GHC5djoQJrcGBJFwYQuQoB
 ╰────────────────────────
 
 
-╭──────「 *OTHER & DEFACE* 」
+╭──────「 *OUTROS E DEFACE* 」
 ┴
 ╰─➤ *${prefix}jarak [Banyuwangi/Surabaya]*
-╰─➤ *${prefix}translate [en/Apa kabar?]*
-╰─➤ *${prefix}pasangan [Farhan/Iriene]*
-╰─➤ *${prefix}gantengcek [Farhan]*
-╰─➤ *${prefix}cantikcek [Iriene]*
-╰─➤ *${prefix}artinama [Farhan]*
+╰─➤ *${prefix}translate [en/Como você está?]*
+╰─➤ *${prefix}pasangan [Hadesbot/Iriene]*
+╰─➤ *${prefix}gantengcek [Hadesbot]*
+╰─➤ *${prefix}cantikcek [Hadesbot]*
+╰─➤ *${prefix}artinama [Hadesbot]*
 ╰─➤ *${prefix}persengay [Topan]*
-╰─➤ *${prefix}pbucin [Farhan]*
-╰─➤ *${prefix}bpfont [Farhan]*
-╰─➤ *${prefix}textstyle [BryanRfly]*
+╰─➤ *${prefix}pbucin [Hadesbot]*
+╰─➤ *${prefix}bpfont [Hadesbot]*
+╰─➤ *${prefix}textstyle [Hadesbot]*
 ╰─➤ *${prefix}jadwaltv [antv]*
-╰─➤ *${prefix}lirik [melukis senja]*
-╰─➤ *${prefix}chord [Melukis senja]*
+╰─➤ *${prefix}lirik [pintando crepúsculo]*
+╰─➤ *${prefix}chord [pintando crepúsculo]*
 ╰─➤ *${prefix}wiki [Adolf Hitler]*
-╰─➤ *${prefix}brainly [pertanyaan]*
+╰─➤ *${prefix}brainly [pergunta]*
 ╰─➤ *${prefix}resepmasakan [rawon]*
 ╰─➤ *${prefix}map [Banyuwangi]*
-╰─➤ *${prefix}film [Fast and Farious]*
-╰─➤ *${prefix}pinterest [gambar kucing]*
+╰─➤ *${prefix}film [veloz e furioso]*
+╰─➤ *${prefix}pinterest [fotos de gatos]*
 ╰─➤ *${prefix}infocuaca [Banyuwangi]*
 ╰─➤ *${prefix}jamdunia [Banyuwangi]*
 ╰─➤ *${prefix}mimpi [Ular]*
-╰─➤ *${prefix}infoalamat [jalan Banyuwangi]*
+╰─➤ *${prefix}infoalamat [Rua sãu pedro]*
 ┬
 ╰───────────────────────────
 
@@ -175,9 +166,9 @@ https://chat.whatsapp.com/GHC5djoQJrcGBJFwYQuQoB
 ╰─➤ *${prefix}decbinary [encrypt]*
 ╰─➤ *${prefix}encoctal [string]*
 ╰─➤ *${prefix}decoctal [encrypt]*
-╰─➤ *${prefix}hashidentifier [Encrypt Hash]*
-╰─➤ *${prefix}dorking [dork]*
-╰─➤ *${prefix}pastebin [teks]*
+╰─➤ *${prefix}hashidentifier [Criptografar Hash]*
+╰─➤ *${prefix}dorking [idiota]*
+╰─➤ *${prefix}pastebin [texto]*
 ╰─➤ *${prefix}tinyurl [link]*
 ╰─➤ *${prefix}bitly [link]*
 ┬
@@ -187,36 +178,36 @@ https://chat.whatsapp.com/GHC5djoQJrcGBJFwYQuQoB
 ┴
 ╰─➤ *{prefix}sticker*
 ╰─➤ *${prefix}quotemaker [tx/wtrmk/tema]*
-╰─➤ *${prefix}nulis [nama/kelas/text]*
-╰─➤ *${prefix}trigger [reply image]*
-╰─➤ *${prefix}rip [reply image]*
-╰─➤ *${prefix}wasted [reply image]*
-╰─➤ *${prefix}cphlogo [BryanRfly/BOT]*
-╰─➤ *${prefix}cglitch [BryanRfly/BOT]*
-╰─➤ *${prefix}cpubg [BryanRfly/BOT]*
-╰─➤ *${prefix}cml [miya/BryanRfly]*
-╰─➤ *${prefix}tahta [BryanRfly]*
-╰─➤ *${prefix}croman [BryanRfly dan BOT]*
-╰─➤ *${prefix}cthunder [BryanRfly]*
-╰─➤ *${prefix}cbpink [BryanRfly]*
-╰─➤ *${prefix}cmwolf [BryanRfly]*
-╰─➤ *${prefix}csky [BryanRfly]*
-╰─➤ *${prefix}cwooden [BryanRfly]*
-╰─➤ *${prefix}cflower [BryanRfly]*
-╰─➤ *${prefix}clove [BryanRfly]*
-╰─➤ *${prefix}ccrossfire [BryanRfly]*
-╰─➤ *${prefix}cnaruto [BryanRfly]*
-╰─➤ *${prefix}cparty [BryanRfly]*
-╰─➤ *${prefix}cshadow [BryanRfly]*
-╰─➤ *${prefix}cminion [BryanRfly]*
-╰─➤ *${prefix}cneon [BryanRfly]*
-╰─➤ *${prefix}cneon2 [BryanRfly]*
-╰─➤ *${prefix}cneongreen [BryanRfly]*
-╰─➤ *${prefix}c3d [BryanRfly]*
-╰─➤ *${prefix}csky [BryanRfly]*
-╰─➤ *${prefix}tts [id Haii]*
-╰─➤ *${prefix}ttp [BryanRfly]*
-╰─➤ *${prefix}slide [BryanRfly]*
+╰─➤ *${prefix}nulis [nome/aula/text]*
+╰─➤ *${prefix}trigger [imagem de resposta]*
+╰─➤ *${prefix}rip [imagem de resposta]*
+╰─➤ *${prefix}wasted [imagem de resposta]*
+╰─➤ *${prefix}cphlogo [Hadesbot/BOT]*
+╰─➤ *${prefix}cglitch [Hadesbot/BOT]*
+╰─➤ *${prefix}cpubg [Hadesbot/BOT]*
+╰─➤ *${prefix}cml [miya/Hadesbot]*
+╰─➤ *${prefix}tahta [Hadesbot]*
+╰─➤ *${prefix}croman [Hadesbot dan BOT]*
+╰─➤ *${prefix}cthunder [Hadesbot]*
+╰─➤ *${prefix}cbpink [Hadesbot]*
+╰─➤ *${prefix}cmwolf [Hadesbot]*
+╰─➤ *${prefix}csky [Hadesbot]*
+╰─➤ *${prefix}cwooden [Hadesbot]*
+╰─➤ *${prefix}cflower [Hadesbot]*
+╰─➤ *${prefix}clove [Hadesbot]*
+╰─➤ *${prefix}ccrossfire [Hadesbot]*
+╰─➤ *${prefix}cnaruto [Hadesbot]*
+╰─➤ *${prefix}cparty [Hadesbot]*
+╰─➤ *${prefix}cshadow [Hadesbot]*
+╰─➤ *${prefix}cminion [Hadesbot]*
+╰─➤ *${prefix}cneon [Hadesbot]*
+╰─➤ *${prefix}cneon2 [Hadesbot]*
+╰─➤ *${prefix}cneongreen [Hadesbot]*
+╰─➤ *${prefix}c3d [Hadesbot]*
+╰─➤ *${prefix}csky [Hadesbot]*
+╰─➤ *${prefix}tts [pt Oie]*
+╰─➤ *${prefix}ttp [Hadesbot]*
+╰─➤ *${prefix}slide [Hadesbot]*
 ╰─➤ *${prefix}stiker*
 ╰─➤ *${prefix}gifstiker*
 ╰─➤ *${prefix}toimg*
@@ -289,10 +280,10 @@ https://chat.whatsapp.com/GHC5djoQJrcGBJFwYQuQoB
 ┬
 ╰────────────────────────
 
-╭─────────「 *OWNER ONLY* 」
+╭─────────「 *SÓ PROPRIETÁRIO* 」
 ┴
-╰─➤ *${prefix}addprem [mentioned]*
-╰─➤ *${prefix}removeprem [mention]*
+╰─➤ *${prefix}addprem [@MENCIONADO]*
+╰─➤ *${prefix}removeprem [@MENCIONADO]*
 ╰─➤ *${prefix}setppbot*
 ╰─➤ *${prefix}setreply*
 ╰─➤ *${prefix}bc*
@@ -310,14 +301,14 @@ https://chat.whatsapp.com/GHC5djoQJrcGBJFwYQuQoB
 ╰────────────────────────
 
 
-╭────────「 *PREMIUM ONLY* 」
+╭────────「 *SOMENTE PREMIUM* 」
 ┴
 ╰─➤ *${prefix}playmp3 [menepi]*
 ╰─➤ *${prefix}fb [link video]*
 ╰─➤ *${prefix}snack [link snack video]*
 ╰─➤ *${prefix}ytmp3 [link yt]*
 ╰─➤ *${prefix}ytmp4 [link yt]*
-╰─➤ *${prefix}joox [Monolog Pamungkas]*
+╰─➤ *${prefix}joox [Ultimate Monologue]*
 ╰─➤ *${prefix}smule [Link Video Smule]*
 ╰─➤ *${prefix}cersex*
 ╰─➤ *${prefix}asupan*
@@ -326,17 +317,16 @@ https://chat.whatsapp.com/GHC5djoQJrcGBJFwYQuQoB
 ╰─➤ *${prefix}hentai [Random]*
 ╰─➤ *${prefix}ban [TagUser]*
 ╰─➤ *${prefix}unban [TagUser]*
-╰─➤ *${prefix}bc [teks]*
+╰─➤ *${prefix}bc [texto]*
 ╰─➤ *${prefix}asupan*
 ┬
 ╰────────────────────────
 
 ╭─────「 *SUPPORT ${name}* 」
 │
-├➲ *FADHIL G*
-├➲ *ANANG F*
-├➲ *AFFIS J*
-├➲ *Dan Member MyBot Team Lainnya*
+├➲ *O BOT*
+├➲ *SR ALLISON*
+│
 ╰────────────────────────`
 }
 exports.help = help
