@@ -1,6 +1,6 @@
 const bahasa = (prefix) => {
 return `
-List Bahasa Untuk Command *${prefix}tts*
+Lista de idiomas para comando *${prefix}tts*
   af: Afrikaans
   sq: Albanian
   ar: Arabic
