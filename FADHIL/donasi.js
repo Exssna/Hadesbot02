@@ -14,13 +14,12 @@ const donasi = (Ig, name) => {
 ┃  *BOT BY ${name}*
 ┗━━━━━━━━━━━━━━━━━━━━
 Note:
-Jika Gamau Donasi Setidaknya Follow IG Ngab:D
-Kalo Dah Donasi Silahkan Invit Di Group Kalian:)
-Makasih:)
+Se você doar pelo menos siga IG Ngab: D
+Se você doar, convide seu grupo :)
+Obrigado:)
 
 PENGGANTI DONASI GAN!!!
-https://m.youtube.com/channel/UCQJ4NVMPWgQ7AmuqmI5kvlQ
-`
+
 }
 
 exports.donasi = donasi
