@@ -1,6 +1,6 @@
 const funmenu = (prefix) => { 
 	return ` 
-╭───「 *FUN & GAME* 」──
+╭───「 *JOGO DIVERTIDO* 」──
 │
 ├➲ *${prefix}anjing*
 ├➲ *${prefix}kucing*
